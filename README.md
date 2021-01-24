@@ -1,2 +1,2 @@
 # Notas-Android
-Pequeña app notas
+Pequeña app notas con Firebase
